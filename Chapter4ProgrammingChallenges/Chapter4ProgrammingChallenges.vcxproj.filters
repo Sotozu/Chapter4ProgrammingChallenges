@@ -15,10 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="Source.cpp">
-      <Filter>Source Files</Filter>
-    </ClCompile>
-    <ClCompile Include="template.cpp">
+    <ClCompile Include="27 Mobile Service Provider Part 3.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
